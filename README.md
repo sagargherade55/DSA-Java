@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sagargherade55/DSA-Java/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sagargherade55/DSA-Java/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sagargherade55/DSA-Java/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sagargherade55/DSA-Java/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
